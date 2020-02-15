@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\bin\Debug\AudioVisual.exe.config
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\bin\Debug\AudioVisual.exe
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\bin\Debug\AudioVisual.pdb
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.AreaDeTrabalho.resources
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.Properties.Resources.resources
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.TelaCadastroMaterial.resources
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.exe
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.pdb
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\bin\Debug\Json.Net.dll
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.csproj.CopyComplete
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.TelaCadastrarExemplares.resources
+C:\Users\lenovo\Documents\NetBeansProjects\AudioVisual\AudioVisual\obj\Debug\AudioVisual.TelaListagemMaterial.resources

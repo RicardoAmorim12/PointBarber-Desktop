@@ -1,0 +1,51 @@
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\AudioVisual.Properties.Resources.resources
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\AudioVisual.pdb
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.AreaDeTrabalho.resources
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\bin\Debug\AudioVisual.exe.config
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\bin\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\bin\Debug\AudioVisual.pdb
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\bin\Debug\Json.Net.dll
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.csproj.CopyComplete
+C:\Users\ricar\Desktop\AudioVisual(1)\AudioVisual\obj\Debug\PointBarber.TelaCadastro.resources
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.exe.config
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.pdb
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\bin\Debug\Json.Net.dll
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.AreaDeTrabalho.resources
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.Properties.Resources.resources
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.TelaCadastro.resources
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.CopyComplete
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.pdb
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.exe.config
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.exe
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\bin\Debug\AudioVisual.pdb
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\bin\Debug\Json.Net.dll
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csprojAssemblyReference.cache
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.AreaDeTrabalho.resources
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.Properties.Resources.resources
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.TelaCadastro.resources
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.GenerateResource.cache
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.CoreCompileInputs.cache
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\PointBarber.csproj.CopyComplete
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.exe
+C:\Users\Palmiro Rezende\Desktop\C# Point Barber\PointBarber\obj\Debug\AudioVisual.pdb
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\bin\Debug\AudioVisual.exe.config
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\bin\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\bin\Debug\AudioVisual.pdb
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\bin\Debug\Json.Net.dll
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\PointBarber.csprojAssemblyReference.cache
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\PointBarber.AreaDeTrabalho.resources
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\AudioVisual.Properties.Resources.resources
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\PointBarber.TelaCadastro.resources
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\PointBarber.csproj.GenerateResource.cache
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\PointBarber.csproj.CopyComplete
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\AudioVisual.exe
+C:\Users\ricar\Desktop\PointBarber-20200215T171331Z-001\PointBarber\obj\Debug\AudioVisual.pdb
